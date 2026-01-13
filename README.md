@@ -105,28 +105,28 @@ This enables real-time collaboration with <100ms latency.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     PRESENTATION LAYER                       │
+│                     PRESENTATION LAYER                      │
 │   Web Client │ Mobile Apps │ VR/AR Clients │ API Consumers  │
 └─────────────────────────────────────────────────────────────┘
                               │
 ┌─────────────────────────────────────────────────────────────┐
-│                        API GATEWAY                           │
-│          Load Balancing │ Auth │ Rate Limiting               │
+│                        API GATEWAY                          │
+│          Load Balancing │ Auth │ Rate Limiting              │
 └─────────────────────────────────────────────────────────────┘
                               │
 ┌─────────────────────────────────────────────────────────────┐
-│                    RUST MICROSERVICES                        │
+│                    RUST MICROSERVICES                       │
 │   Project  │  Simulation  │  AI Core  │  Funding            │
 │   Service  │   Service    │  Service  │  Service            │
 └─────────────────────────────────────────────────────────────┘
                               │
 ┌─────────────────────────────────────────────────────────────┐
-│                     EVENT BUS (CDC)                          │
-│          PostgreSQL WAL │ Redis Streams │ WebSocket          │
+│                     EVENT BUS (CDC)                         │
+│          PostgreSQL WAL │ Redis Streams │ WebSocket         │
 └─────────────────────────────────────────────────────────────┘
                               │
 ┌─────────────────────────────────────────────────────────────┐
-│                      MCP SERVERS                             │
+│                      MCP SERVERS                            │
 │   Physics  │  Knowledge  │  Progress  │  External           │
 │   Server   │   Server    │   Server   │  Connectors         │
 └─────────────────────────────────────────────────────────────┘
