@@ -1,7 +1,7 @@
 # 📚 DIU OS Documentation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/diu-os)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/rXQDgpgaW8)
 
 > Official documentation for DIU OS — the Scientific Operating System for decentralized science.
 
@@ -13,7 +13,7 @@
 | 👩‍💻 Developer Portal | [dev.diu-os.org](https://dev.diu-os.org) |
 | 🔬 Physics Tutorial | [GitHub](https://github.com/diu-os/physics-tutorial) |
 | 🤖 MCP Servers | [GitHub](https://github.com/diu-os/mcp-servers) |
-| 💬 Community | [Discord](https://discord.gg/diu-os) |
+| 💬 Community | [Discord](https://discord.gg/rXQDgpgaW8) |
 
 ---
 
@@ -321,7 +321,7 @@ DIU OS codebase follows a dual licensing model:
 
 | Channel | Purpose | Response Time |
 |---------|---------|---------------|
-| [Discord](https://discord.gg/diu-os) | Community support | < 24 hours |
+| [Discord](https://discord.gg/rXQDgpgaW8) | Community support | < 24 hours |
 | [GitHub Issues](https://github.com/diu-os/diu-docs/issues) | Bug reports | < 48 hours |
 | [Email](mailto:support@diu-os.org) | Business inquiries | < 72 hours |
 
@@ -331,6 +331,6 @@ DIU OS codebase follows a dual licensing model:
 
 **Built with ❤️ by the DIU OS Community**
 
-[Website](https://diu-os.org) · [Developer Portal](https://dev.diu-os.org) · [Discord](https://discord.gg/diu-os) · [Twitter](https://twitter.com/diu_os)
+[Website](https://diu-os.org) · [Developer Portal](https://dev.diu-os.org) · [Discord](https://discord.gg/rXQDgpgaW8) · [Twitter](https://twitter.com/diu_os)
 
 </div>
